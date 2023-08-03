@@ -1,3 +1,23 @@
 {
-  "9t":"https://drive.9t.ee"
+  "vodPic": "https://s1.ax1x.com/2023/05/04/p9tgI81.png",
+  "drives": [
+    {
+      "name": "9t",
+      "server": "https://drive.9t.ee"
+    },
+    {
+      "name": "範本",
+      "server": "https://one.fongmi.com",
+      "login": {
+        "username": "fongmi",
+        "password": "fongmi"
+      },
+      "params": [
+        {
+          "path": "/安齋拉拉",
+          "pass": "18181818"
+        }
+      ]
+    }
+  ]
 }
