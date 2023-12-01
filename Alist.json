@@ -1,15 +1,15 @@
 {
   "vodPic": "https://s1.ax1x.com/2023/05/04/p9tgI81.png",
   "drives": [
-    {
-      "name": "9t",
-      "server": "https://drive.9t.ee"
-    "password": "1234022033"
-    },
   {
       "name": "罗汉果",
       "server": "https://lala-ofbip.run.goorm.site/"
+    },
+   {
+      "name": "9t",
+      "server": "https://drive.9t.ee"
+    "password": "1234022033"
     }
   ]
-}
+}]]
 
